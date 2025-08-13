@@ -5,8 +5,6 @@ This project is a simple **ATM (Automated Teller Machine) simulator** built in J
 It demonstrates core **Object-Oriented Programming (OOP)** concepts such as:
 - **Encapsulation** (private fields, public getters/setters)
 - **Abstraction** (separating account logic from ATM operations)
-- **Modularity** (BankAccount and ATM classes)
-- **Error Handling** (input validation, insufficient balance checks)
 
 The program allows a user to:
 - Withdraw money  
@@ -42,7 +40,6 @@ The program allows a user to:
 - **Java** (Core Java, OOP concepts)
 - **Collections Framework** (`HashMap` for storing accounts)
 - **Scanner** for user input
-- **Exception Handling** for input validation
 
 ---
 
